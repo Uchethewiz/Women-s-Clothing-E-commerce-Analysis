@@ -39,7 +39,7 @@ This analysis examined 23,472 customer reviews to understand customer satisfacti
 Overall, customer satisfaction is high, and satisfaction is strongly and consistently linked to recommendation behavior. However, a subset of product classes are meaningfully underperforming and represent a clear opportunity for improvement.
 
 ## DASHBOARD 
-![Dashboard Preview](./DASHBOARD/DASHBOARD%20PREVIEW.png)
+https://github.com/Uchethewiz/Women-s-Clothing-E-commerce-Analysis/blob/main/Women's-Clothing-Ecommerce-Analysis/DASHBOARD/DASHBOARD%20PREVIEW.png
 
 ## Key Insights
 
