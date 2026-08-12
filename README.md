@@ -41,6 +41,20 @@ Overall, customer satisfaction is high, and satisfaction is strongly and consist
 ## DASHBOARD 
 ![Dashboard Preview](https://github.com/Uchethewiz/Women-s-Clothing-E-commerce-Analysis/blob/main/Women's-Clothing-Ecommerce-Analysis/DASHBOARD/DASHBOARD%20PREVIEW.png)
 
+## 🗂️ Data Source
+
+- **Dataset:** Women's Clothing E-Commerce Reviews dataset
+- **Size:** 23,486 customer reviews (23,472 after data cleaning)
+- **Fields included:**
+  - `Title` — review title (text)
+  - `Review Text` — full review text
+  - `Rating` — product rating (1 = worst, 5 = best)
+  - `Recommended IND` — whether the customer recommended the product (1 = yes, 0 = no)
+  - `Positive Feedback Count` — number of users who found the review helpful
+  - `Division Name` — high-level product division (e.g., General, Intimate)
+  - `Department Name` — product department (e.g., Tops, Dresses, Bottoms)
+  - `Class Name` — product class (e.g., Knits, Dresses, Denim)
+
 ## Key Insights
 
 1. **Overall customer satisfaction is high.** The average customer rating is 4.20/5, and 5-star reviews (13.12K) make up the largest share of all feedback, followed by 4-star reviews — very few customers gave 1- or 2-star ratings.
@@ -72,16 +86,4 @@ The interactive dashboard (built in Power BI) includes filters for Division, Dep
 - Recommendation rate and average rating by department
 - Distribution of ratings across the full review dataset
 
-## 🗂️ Data Source
 
-- **Dataset:** Women's Clothing E-Commerce Reviews dataset
-- **Size:** 23,486 customer reviews (23,472 after data cleaning)
-- **Fields included:**
-  - `Title` — review title (text)
-  - `Review Text` — full review text
-  - `Rating` — product rating (1 = worst, 5 = best)
-  - `Recommended IND` — whether the customer recommended the product (1 = yes, 0 = no)
-  - `Positive Feedback Count` — number of users who found the review helpful
-  - `Division Name` — high-level product division (e.g., General, Intimate)
-  - `Department Name` — product department (e.g., Tops, Dresses, Bottoms)
-  - `Class Name` — product class (e.g., Knits, Dresses, Denim)
