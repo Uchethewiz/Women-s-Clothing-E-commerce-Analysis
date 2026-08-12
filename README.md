@@ -1,7 +1,7 @@
 # Women-s-Clothing-E-commerce-Analysis
 A data analytics project exploring 23,486 customer reviews from a women's clothing e-commerce company to uncover what drives customer satisfaction and product recommendations, and to deliver actionable, data-driven business recommendations.
 
-## 📌 Business Problem
+## Business Problem
 
 A leading women's clothing e-commerce company (name withheld) collects thousands of customer reviews — including star ratings, written feedback, and recommendation status — but lacked a structured way to understand what this feedback was telling them. The company needed to know:
 
@@ -10,7 +10,7 @@ A leading women's clothing e-commerce company (name withheld) collects thousands
 - Whether satisfaction varies across different customer segments
 - Where to focus improvement efforts to boost customer satisfaction and recommendation rates
 
-## 🎯 Objective
+## Objective
 As the Data Analyst on this project, my task was to:
 
 1. Clean and prepare the raw customer review dataset for analysis
@@ -38,7 +38,7 @@ This analysis examined 23,472 customer reviews to understand customer satisfacti
 
 Overall, customer satisfaction is high, and satisfaction is strongly and consistently linked to recommendation behavior. However, a subset of product classes are meaningfully underperforming and represent a clear opportunity for improvement.
 
-## 🔍 Key Insights
+## Key Insights
 
 1. **Overall customer satisfaction is high.** The average customer rating is 4.20/5, and 5-star reviews (13.12K) make up the largest share of all feedback, followed by 4-star reviews — very few customers gave 1- or 2-star ratings.
 
@@ -52,7 +52,7 @@ Overall, customer satisfaction is high, and satisfaction is strongly and consist
 
 6. **Positive experiences dominate the feedback pool**, with 5-star and 4-star reviews together accounting for the vast majority of the 23K+ reviews collected, reinforcing an overall healthy customer sentiment base to build on.
 
-## ✅ Recommendations
+## Recommendations
 
 1. **Prioritize the Trend department and its lowest-rated classes.** Dig into the underlying review text for Trend, Sweaters, Swim, Dresses, Blouses, Outerwear, and Knits to identify recurring complaints about quality, sizing, fit, or design, and act on them.
 2. **Replicate what's working in top departments.** Study the product design, quality standards, and customer preferences behind the success of Bottoms, Intimate, and Jackets, and apply those learnings to underperforming categories.
