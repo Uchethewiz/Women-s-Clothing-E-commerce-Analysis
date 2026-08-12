@@ -38,6 +38,9 @@ This analysis examined 23,472 customer reviews to understand customer satisfacti
 
 Overall, customer satisfaction is high, and satisfaction is strongly and consistently linked to recommendation behavior. However, a subset of product classes are meaningfully underperforming and represent a clear opportunity for improvement.
 
+## DASHBOARD 
+Women's-Clothing-Ecommerce-Analysis/DASHBOARD/DASHBOARD PREVIEW.png
+
 ## Key Insights
 
 1. **Overall customer satisfaction is high.** The average customer rating is 4.20/5, and 5-star reviews (13.12K) make up the largest share of all feedback, followed by 4-star reviews — very few customers gave 1- or 2-star ratings.
